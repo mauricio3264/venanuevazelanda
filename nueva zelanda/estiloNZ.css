@@ -1,0 +1,78 @@
+.quienes{
+font-size: 30;
+ color:navy;
+
+		
+ 
+
+
+font-family: "Latin Modern Roman 10";
+  font-style: italic;
+  
+
+}
+
+
+*{
+	background-color:beige;
+	text-decoration:none;
+	text-shadow: -1px -1px 1px white,-1px -1px 1px white,-1px -1px 1px white,-1px -1px 1px white;
+	
+
+		
+	
+ }
+ 
+ 
+ 
+.fond
+		{
+				font-size: 20;
+				margin-top:-5;
+					text-align: center;
+					color:navy;
+		}
+		
+		.indice{
+					font-size: 23;
+					font:menu;
+					margin-top:4;
+					
+		}
+			
+		h1{
+		color:green;
+		}
+		 h2{
+		 color:red;
+		 }
+		 
+			
+			ol{ list-style-type: upper-roman;
+				line-height:2;
+				color:green;}
+				
+				
+				li p{ color:navy}
+				
+				
+		h3{ color: green;}		
+				h4{ color:orange;}
+				
+				
+				
+				
+				
+				
+.mo{  
+    
+    
+    border: black 1px solid;
+    font-family: sans-serif;
+    color: red;
+}
+
+
+
+				
+		
